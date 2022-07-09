@@ -1,4 +1,4 @@
-package com.ewingelen.movieapp.ui.theme
+package com.ewingelen.mova.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

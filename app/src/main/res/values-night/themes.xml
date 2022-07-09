@@ -7,7 +7,7 @@
     </style>
 
     <style name="Theme.Mova.Starting" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenBackground">@color/black</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/ic_logo</item>
         <item name="postSplashScreenTheme">@style/Theme.Mova</item>
     </style>
